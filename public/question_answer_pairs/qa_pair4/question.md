@@ -1,0 +1,1 @@
+### What's the use of *.terraform.lock.hcl* file in terraform
